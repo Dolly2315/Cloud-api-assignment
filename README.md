@@ -5,7 +5,7 @@ Terraform is used to make code changes and push to aws
 
 To run the code locally : 
 
- ``` git clone <url> ```
+ ``` git clone git@github.com:Dolly2315/Cloud-api-assignment.git  ```
 
 in root directory , build the project : 
 
