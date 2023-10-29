@@ -1,0 +1,11 @@
+micronaut:
+  application:
+    name: cloudApi
+
+  server:
+    port: 5000
+
+netty:
+  default:
+    allocator:
+      max-order: 3
